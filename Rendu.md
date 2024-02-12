@@ -171,6 +171,10 @@ L'exercice 6 est disponible dans un repository dédié à cette exercice sur Git
 
 L'exercice 7 est disponible dans un repository dédié à cette exercice sur GitLab et est accessible via le lien suivant : [Exercice 7](https://gitlab.com/fierperle/gestcode-exo7)
 
+## Exercice 8 :
+
+L'exercice 7 est disponible dans un repository dédié à cette exercice sur GitLab et est accessible via le lien suivant : [Exercice 7](https://gitlab.com/fierperle/gestcode-exo8)
+
 
 
 
